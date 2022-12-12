@@ -1,0 +1,9 @@
+name: 'weblog.lol'
+description: 'https://home.omg.lol/info/weblog'
+runs:
+  using: "composite"
+  steps:
+  - run: wget -O weblog-import.php https://api.omg.lol/address/adam/weblog/github-action
+    shell: bash
+  - run: php -f weblog-import.php $ADDRESS $WEBLOG_API_KEY
+    shell: bash	
