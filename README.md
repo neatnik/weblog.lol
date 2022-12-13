@@ -13,17 +13,17 @@ on: [push]
 
 jobs:
   weblog_import:
-	runs-on: ubuntu-latest
-	name: weblog.lol
-	steps:
-	  - uses: actions/checkout@v3
-		with:
-		  fetch-depth: 2
-	  - id: weblog_import
-		uses: neatnik/weblog.lol@v1
-		env:
-		  ADDRESS: your-address-here
-		  WEBLOG_API_KEY: ${{ secrets.WEBLOG_API_KEY }}
+    runs-on: ubuntu-latest
+    name: weblog.lol
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 2
+      - id: weblog_import
+        uses: neatnik/weblog.lol@v1
+        env:
+          ADDRESS: your-address-here
+          WEBLOG_API_KEY: ${{ secrets.WEBLOG_API_KEY }}
 ```
 
 3. Change the `your-address-here` value above to your own omg.lol address (just the address itself, e.g. `foobar`).
