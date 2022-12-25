@@ -35,4 +35,4 @@ jobs:
 
 5. Add a folder to your repo called `weblog`. You can store your posts here, using whatever directory structure you’d like.
 
-6. _Optional:_ Add a folder to your repo called `configuration`. In that folder, you can store your `template.html` file and your `weblog.conf` file if you’d like to manage your template and configuration through your repo.
+6. _Optional:_ Add a folder to your repo called `configuration`. In that folder, you can store your `template.html` file and your `configuration.txt` file if you’d like to manage your template and configuration through your repo.
