@@ -1,6 +1,6 @@
 # weblog.lol GitHub Action
 
-This repository holds the weblog.lol GitHub Action. All other omg.lol material (including weblog.lol stuff) can be found in the [omg.lol repository](http://github.com/neatnik/omg.lol/).
+This repository holds the weblog.lol GitHub Action and documentation. All other omg.lol material (including weblog.lol stuff) can be found in the [omg.lol repository](http://github.com/neatnik/omg.lol/).
 
 ## Setting up the action
 
