@@ -10,16 +10,22 @@ Let’s take a look at each of the specific configuration items in your weblog. 
 <table>
 <thead>
 <tr>
-	<th>Item</th>
-	<th>Description</th>
-	<th>Default Value</th>
+<th>Item</th>
+<th>Description</th>
+<th>Default Value</th>
 </tr>
 </thead>
 <tbody>
+
 <tr>
-	<td>Weblog title</td>
-	<td>The title of your weblog, used with the `{title}` tag.</td>
-	<td><code>Weblog title</code></td>
+<td>Weblog title</td>
+<td>The title of your weblog, used with the `{title}` tag.</td>
+<td>
+```
+Weblog title
+```
+</td>
 </tr>
+
 </tbody>
 </table>
