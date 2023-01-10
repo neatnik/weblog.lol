@@ -1,0 +1,15 @@
+on: [push]
+
+jobs:
+  weblog_import:
+    runs-on: ubuntu-latest
+    name: weblog.lol
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 2
+      - id: weblog_import
+        uses: neatnik/weblog.lol@v1
+        env:
+          ADDRESS: weblog
+          WEBLOG_API_KEY: ${{ secrets.WEBLOG_API_KEY }}
