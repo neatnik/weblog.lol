@@ -1,8 +1,6 @@
----
-Date: 2023-01-01 12:17 PM EST
+Date: 2023-01-01 00:00
 Type: Page
 Title: Home
----
 
 # Welcome to weblog.lol
 
