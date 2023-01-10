@@ -1,8 +1,6 @@
----
-Date: 2023-01-01 12:00 AM
+Date: 2023-01-01 00:00
 Type: Page
 Location: /getting-started
----
 
 # Getting started
 
