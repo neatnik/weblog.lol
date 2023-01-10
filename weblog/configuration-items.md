@@ -27,5 +27,35 @@ Let’s take a look at each of the specific configuration items in your weblog. 
 </td>
 </tr>
 
+<tr>
+<td>Weblog description</td>
+<td>A description for your weblog, used with the <code>{description}</code> tag. Useful for Open Graph metadata (i.e. what shows up in different social sites when people link to your weblog).</td>
+<td>
+<pre>
+<code>This is a weblog.</code>
+</pre>
+</td>
+</tr>
+
+<tr>
+<td>Author</td>
+<td>Your name. Used with the <code>author</code> tag.</td>
+<td>
+<pre>
+<code>Your Name</code>
+</pre>
+</td>
+</tr>
+
+<tr>
+<td>Canonical domain</td>
+<td>When set to a valid domain name, this defines a canonical domain for your weblog. This means that if someone tries to visit your weblog through another means (e.g. foobar.omg.lol), they’ll be redirected to your canonical domain instead.</td>
+<td>
+<pre>
+—
+</pre>
+</td>
+</tr>
+
 </tbody>
 </table>
