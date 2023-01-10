@@ -19,13 +19,13 @@ Let’s take a look at each of the specific configuration items in your weblog. 
 
 <tr>
 <td>Weblog title</td>
-<td>The title of your weblog, used with the `{title}` tag.</td>
+<td>The title of your weblog, used with the <code>{title}</code> tag.</td>
 <td>
-
-```
+<pre>
+<code>
 Weblog title
-```
-
+</code>
+</pre>
 </td>
 </tr>
 
