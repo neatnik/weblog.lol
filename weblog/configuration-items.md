@@ -5,7 +5,7 @@ Type: Page
 
 _Note: This page is a work in progress._
 
-Let’s take a look at each of the specific configuration items in your weblog. There’s a lot here, but one thing to keep in mind is that you don’t have to deal with all of this—just change whatever you feel like changing. You can leave as much of the defaults intact as you’d like.
+Let’s take a look at each of the specific configuration items in your weblog. There’s a lot here, but one thing to keep in mind is that you don’t have to deal with all of this—just change whatever you feel like changing. You can leave as many of the default values alone as you’d like, and your weblog will work just fine.
 
 <table>
 <thead>
@@ -22,9 +22,7 @@ Let’s take a look at each of the specific configuration items in your weblog. 
 <td>The title of your weblog, used with the <code>{title}</code> tag.</td>
 <td>
 <pre>
-<code>
-Weblog title
-</code>
+<code>Weblog title</code>
 </pre>
 </td>
 </tr>
