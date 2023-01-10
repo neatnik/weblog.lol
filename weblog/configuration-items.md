@@ -21,9 +21,11 @@ Let’s take a look at each of the specific configuration items in your weblog. 
 <td>Weblog title</td>
 <td>The title of your weblog, used with the `{title}` tag.</td>
 <td>
+
 ```
 Weblog title
 ```
+
 </td>
 </tr>
 
