@@ -57,7 +57,7 @@ Let’s take a look at each of the specific configuration items in your weblog. 
 
 <tr>
 <td>Separator</td>
-<td>A string that can be used to separate things, such as the weblog title and current post title within the <code>&lt;title&gt;</title> element. Used with the <code>separator</code> tag, and will not be rendered on page when contextually inappropriate.</td>
+<td>A string that can be used to separate things, such as the weblog title and current post title within the <code>&lt;title&gt;</code> element. Used with the <code>separator</code> tag, and will not be rendered on page when contextually inappropriate.</td>
 <td>
 <pre>
 <code>·</code> (interpunct)
