@@ -20,12 +20,12 @@ Or, jump to a specific topic:
 
 - [Configuration basics](/configuration-basics)
 - [Configuration items](/configuration-items)
-- Templates <small>soon</small>
-- Entries <small>soon</small>
-- Entry metadata <small>soon</small>
-- Search <small>soon</small>
-- Feeds <small>soon</small>
-- Publishing with Git <small>soon</small>
+- Templates <small><em>coming soon</em></small>
+- Entries <small><em>coming soon</em></small>
+- Entry metadata <small><em>coming soon</em></small>
+- Search <small><em>coming soon</em></small>
+- Feeds <small><em>coming soon</em></small>
+- Publishing with Git <small><em>coming soon</em></small>
 - Appendix
-  - Tag list <small>soon</small>
-  - Date/time formatting <small>soon</small>
+  - Tag list <small><em>coming soon</em></small>
+  - Date/time formatting <small><em>coming soon</em></small>
