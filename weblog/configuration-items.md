@@ -105,7 +105,7 @@ Let’s take a look at each of the specific configuration items in your weblog. 
 
 <tr>
 <td>Titleless title length</td>
-<td>The number of characters that will be used for the title of a titleless post. [See Dave Winer’s discussion on titleless posts for details.](https://github.com/scripting/reallysimple/tree/main/demos/titlelessFeedsHowto)</td>
+<td>The number of characters that will be used for the title of a titleless post. <a href="https://github.com/scripting/reallysimple/tree/main/demos/titlelessFeedsHowto">See Dave Winer’s discussion on titleless posts for details.</a></td>
 <td>
 <pre>
 <code>80</code>
