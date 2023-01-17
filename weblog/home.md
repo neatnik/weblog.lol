@@ -8,9 +8,10 @@ Weblog.lol is [omg.lol](https://weblog.lol)’s weblog service, which is pretty 
 
 ## It features:
 
-- Entry authoring with Markdown
-- A powerful template processor
-- Very flexible configuration
+- Authoring with Markdown
+- Powerful template processing
+- Surprisingly flexible configuration
+- Optional Git-based content management
 
 This site will explain how it all works, if you’re curious.
 
