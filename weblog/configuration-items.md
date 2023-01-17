@@ -104,6 +104,16 @@ Let’s take a look at each of the specific configuration items in your weblog. 
 </tr>
 
 <tr>
+<td>Titleless title length</td>
+<td>The number of characters that will be used for the title of a titleless post. [See Dave Winer’s discussion on titleless posts for details.](https://github.com/scripting/reallysimple/tree/main/demos/titlelessFeedsHowto)</td>
+<td>
+<pre>
+<code>80</code>
+</pre>
+</td>
+</tr>
+
+<tr>
 <td>Post path format</td>
 <td>The format used for your post path, which will make up the portion of the URL between the domain and the post slug. Uses the same [date/time format characters](/date-time-formatting) as the <code>Date format</code> item above. Text enclosed in <code>"double quotes"</code> will not be parsed as date/time values.</td>
 <td>
