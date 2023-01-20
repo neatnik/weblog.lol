@@ -123,5 +123,31 @@ Let’s take a look at each of the specific configuration items in your weblog. 
 </td>
 </tr>
 
+<tr>
+<td>Default post</td>
+<td>The content that will be populated in the entry field in the omg.lol weblog UI when you create a new post.</td>
+<td>
+<pre>
+<code><<[---
+	Date: $date
+	---
+	
+	# Your new post
+	
+	This is a new blog post. You can author it in _Markdown_, which is **awesome**.]>>
+	
+	
+	;; Recent posts {recent-posts}
+	;; ---------------------------
+	
+	Recent posts count: 5
+	Recent posts format: <<[
+	<ul>
+	[post:begin]<li><a href="$location">$title</a></li>[post:end]
+	</ul>]>></code>
+</pre>
+</td>
+</tr>
+
 </tbody>
 </table>
