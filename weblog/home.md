@@ -6,7 +6,7 @@ Title: Home
 
 Weblog.lol is [omg.lol](https://weblog.lol)’s weblog service, which is pretty neat. The service is in beta, but is coming along nicely.
 
-## It features:
+It features:
 
 - Authoring with Markdown
 - Powerful template processing
