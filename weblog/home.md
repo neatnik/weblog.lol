@@ -4,7 +4,7 @@ Title: Home
 
 # Welcome to weblog.lol
 
-Weblog.lol is [omg.lol](https://weblog.lol)’s weblog service, which is pretty neat. The service is in beta, but is coming along nicely.
+Weblog.lol is [omg.lol](https://omg.lol)’s weblog service, which is pretty neat. The service is in beta, but is coming along nicely.
 
 It features:
 
