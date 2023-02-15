@@ -1,7 +1,7 @@
 ---
 Date: 2023-01-01 00:00
 Type: Page
-Locaton: /quickstart-1-intro
+Location: /quickstart-1-intro
 ---
 
 # weblog.lol quick start guide
