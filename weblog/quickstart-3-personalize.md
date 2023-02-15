@@ -1,5 +1,7 @@
 ---
 Date: 2023-01-01 00:00
+Type: Page
+Location: /quickstart-3-personalize
 ---
 
 # Personalizing your weblog
