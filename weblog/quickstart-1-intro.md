@@ -32,7 +32,7 @@ If you haven't done anything with your weblog.lol account yet, there is not a lo
 
 If you haven't made a post yet, your browser will show something like this:
 
-![A screenshot of a web browser showing a 'not found' page](ss_weblog_blank.jpg)
+![A screenshot of a web browser showing a 'not found' page](https://raw.githubusercontent.com/neatnik/weblog.lol/main/images/ss_weblog_blank.jpg)
 
 It isn't very inspiring, but we're going to fix that. Let's start by getting you to your weblog.lol homepage: 
 
@@ -45,7 +45,7 @@ It isn't very inspiring, but we're going to fix that. Let's start by getting you
 
 You should be looking at a page with a new post ready to go in the editing area: 
 
-![A screenshot of a browser with a text editing area and a new blog post ready to go.](ss_weblog_new.jpg)
+![A screenshot of a browser with a text editing area and a new blog post ready to go.](https://raw.githubusercontent.com/neatnik/weblog.lol/main/images/ss_weblog_new.jpg)
 
 If you're used to using a word processor, or if you've edited web content in the past using a WYSIWYG tool, making a post on weblog.lol will be a change of pace. 
 

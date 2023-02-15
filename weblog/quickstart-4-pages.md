@@ -80,7 +80,7 @@ Once you've made the changes, let's save it and see how it looks:
 
 Your new page will open in a new tab:
 
-![Screenshot of a web browser showing our new page.](ss_weblog_new_page.jpg)
+![Screenshot of a web browser showing our new page.](https://raw.githubusercontent.com/neatnik/weblog.lol/main/images/ss_weblog_new_page.jpg)
 
 As we noted in the introduction, this looks a little different from a regular blog post: 
 

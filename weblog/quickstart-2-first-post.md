@@ -87,13 +87,13 @@ That's how you make a list in Markdown. In HTML it would look like this:
 
 If you'd like to see for yourself, this is as good a time as any to save your progress and take a look at your new post, so look just under the text area you've been writing in:
 
-![A screenshot of a web browser with a text area and a button that reads 'Save and Publish'](ss_weblog_save_publish.jpg)
+![A screenshot of a web browser with a text area and a button that reads 'Save and Publish'](https://raw.githubusercontent.com/neatnik/weblog.lol/main/images/ss_weblog_save_publish.jpg)
 
 ... and click the "Save and Publish" button. 
 
 You should get a green notification that your entry has been saved, and you'll see a new "View Live" button under the editing area. Go ahead and click that, and a new tab will open with your post. Here's what it will look like if you used our example text: 
 
-![Screenshot of a web browser showing a web post](ss_weblog_first_post.jpg)
+![Screenshot of a web browser showing a web post](https://raw.githubusercontent.com/neatnik/weblog.lol/main/images/ss_weblog_first_post.jpg)
 
 Take a quick look around: 
 
@@ -136,7 +136,7 @@ Tags: quickstart, practice, tutorial
 
 Click "Save and Publish," then click "View Live." If you look down in the lower right corner of your post, just under the date, you'll see your tags. Go ahead and click on one of them and you'll see something like this:
 
-![A screenshot of a browser window with a page listing tagged posts](ss_weblog_tagpage.jpg)
+![A screenshot of a browser window with a page listing tagged posts](https://raw.githubusercontent.com/neatnik/weblog.lol/main/images/ss_weblog_tagpage.jpg)
 
 Not a lot there, but as you add more and more entries to your weblog over time, tags will provide a way to see posts that are related to each other via common tags. 
 
