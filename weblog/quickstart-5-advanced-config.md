@@ -85,7 +85,7 @@ There's not a one-click way to get to your weblog, so just point your browser to
 
 If you've followed this quick start guide closely, your weblog will look something like this:
 
-![A screenshot of a web browser displaying our weblog's front page]()
+![A screenshot of a web browser displaying our weblog's front page](https://raw.githubusercontent.com/neatnik/weblog.lol/main/images/ss_weblog_default_nav.jpg)
 
 Your new menu is just underneath your weblog's title in the upper left corner of the page. 
 
@@ -136,7 +136,7 @@ Navigation: about, [Me on omg.lol](https://social.lol/@YOUR_ADDRESS), [Mastodon]
 
 Click "Save and Publish," visit your weblog's front page, and you should see your new navigation menu, looking something like this:
 
-![Screenshot of a web browser window with our new navigation displayed under the title]()
+![Screenshot of a web browser window with our new navigation displayed under the title](https://raw.githubusercontent.com/neatnik/weblog.lol/main/images/ss_weblog_new_nav.jpg)
 
 ## Date, time, and URL structures
 
