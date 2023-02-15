@@ -130,7 +130,7 @@ If you're _very_ familiar with Markdown, you'll be interested to know we use the
 
 ## Next steps
 
-Now that you understand what front matter is and a little bit about how Markdown works, let's move on to [writing your first blog post](quick-start-first-post.md). 
+Now that you understand what front matter is and a little bit about how Markdown works, let's move on to [writing your first blog post](quickstart-2-first-post). 
 
 
 
