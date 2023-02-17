@@ -10,11 +10,10 @@ Now that you understand what front matter is and a little bit about how Markdown
 
 In case you closed your browser window between pages, here's how to get to your weblog (and a new post): 
 
-1. Visit <https://omg.lol>
-2. Click "Dashboard"
-3. Click "Weblog"
-
-(If you have more than one omg.lol address, click the one you want to use and then click "Weblog") 
+1. Visit <https://omg.lol>.
+2. Click "Dashboard".
+3. If you have more than one omg.lol address, click the one you want to use. If not, move on to the next step. 
+4. Click "Weblog". 
 
 You should be looking at an editing area with a fresh post ready to go. 
 

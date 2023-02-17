@@ -10,11 +10,10 @@ Now that you've written a blog post or two and familiarized yourself with Markdo
 
 You can find the configuration page by visiting the main weblog.lol page. To get there:
 
-1. Visit <https://omg.lol>
-2. Click "Dashboard"
-3. Click "Weblog"
-
-(If you have more than one omg.lol address, click the one you want to use and then click "Weblog") 
+1. Visit <https://omg.lol>.
+2. Click "Dashboard".
+3. If you have more than one omg.lol address, click the one you want to use. If not, move on to the next step. 
+4. Click "Weblog". 
 
 
 Once you're there, you should see a new blog post screen. Look below the blog post's text area for a button that says "Configuration" and click it. You'll see a text area that looks a lot like the blog post editing area. Feel free to click inside that text area and look around. 

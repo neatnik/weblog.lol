@@ -30,11 +30,10 @@ We're also going to offer examples centered around a common use for pages on web
 
 Let's start by going to your main weblog.lol page. To get there:
 
-1. Visit <https://omg.lol>
-2. Click "Dashboard"
-3. Click "Weblog"
-
-(If you have more than one omg.lol address, click the one you want to use and then click "Weblog") 
+1. Visit <https://omg.lol>.
+2. Click "Dashboard".
+3. If you have more than one omg.lol address, click the one you want to use. If not, move on to the next step. 
+4. Click "Weblog". 
 
 Once you're there, you should see the familiar new blog post screen. 
 

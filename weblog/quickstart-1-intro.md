@@ -28,7 +28,7 @@ You don't have to use our examples, but if you decide to experiment a little the
 
 If you haven't done anything with your weblog.lol account yet, there is not a lot to see. You can take a look by visiting your weblog using your omg.lol address: 
 
-`https://YOUR ADDRESS/weblog.lol`
+`https://YOUR ADDRESS.weblog.lol`
 
 If you haven't made a post yet, your browser will show something like this:
 
@@ -36,12 +36,10 @@ If you haven't made a post yet, your browser will show something like this:
 
 It isn't very inspiring, but we're going to fix that. Let's start by getting you to your weblog.lol homepage: 
 
-- Visit <https://omg.lol>
-- Click "Dashboard"
-- Click "Weblog"
-
-(If you have more than one omg.lol address, click the one you want to use and then click "Weblog") 
-
+1. Visit <https://omg.lol>.
+2. Click "Dashboard".
+3. If you have more than one omg.lol address, click the one you want to use. If not, move on to the next step. 
+4. Click "Weblog". 
 
 You should be looking at a page with a new post ready to go in the editing area: 
 
