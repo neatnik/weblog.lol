@@ -15,7 +15,7 @@ It features:
 
 This site will explain how it all works, if you’re curious.
 
-<span style="background: #2f9e44; color: #fff; padding: .3em; font-weight: bold; font-size: 80%; text-transform: uppercase; border-radius: .3em;">New!</span> [Jump into things with our Quickstart Guide!](https://weblog.lol/quickstart-1-intro)
+<span style="background: #2f9e44; color: #fff; padding: .3em; font-weight: bold; font-size: 80%; text-transform: uppercase; border-radius: .3em;">New!</span> [Jump into things with our quick start guide!](https://weblog.lol/quickstart-1-intro)
 
 <!--
 <i class="fa-solid fa-fw fa-circle-right"></i> [Ready to get started?](/getting-started)
