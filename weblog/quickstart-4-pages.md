@@ -112,18 +112,22 @@ As it stands, `https://YOURADDRESS.weblog.lol/about-this-weblog` isn't the worst
 
 Your page's front matter should currently look something like:
 
+```
 ---
 Date: 2023-02-13 19:17
 Type: Page
 ---
+```
 
 We can change the URL by adding the `Location` setting to the front matter. Most "About" pages have the very simple slug of "about," so let's use that:
 
+```
 ---
 Date: 2023-02-13 19:17
 Type: Page
 Location: /about
 ---
+```
 
 You may have noticed the leading `/` in the `Location` setting. If a `Location` setting starts with `/` that means the URL will be relative to the "site root" (the topmost directory) of your weblog. 
 
