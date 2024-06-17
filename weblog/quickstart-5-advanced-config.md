@@ -131,7 +131,7 @@ Here's an example that would create a navigation menu pointing to your about pag
 
 ```
 // Navigation: about, another-page, <a href="https://example.com">Example</a>, [Example](https://example.com)
-Navigation: about, [Me on omg.lol](https://social.lol/@YOUR_ADDRESS), [Mastodon](https://social.lol/@YOUR_ADDRESS)
+Navigation: about, [Me on omg.lol](https://@YOUR_ADDRESS.omg.lol/), [Mastodon](https://social.lol/@YOUR_ADDRESS)
 ```
 
 Click "Save and Publish," visit your weblog's front page, and you should see your new navigation menu, looking something like this:
